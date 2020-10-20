@@ -3,24 +3,28 @@
 This app will search music mixes from the internet and give the user the results, much like Google and their search engine. You can create your own mix playlists and play from the app.  
 
 #### Wireframes
-**Landing Page**
+**Landing Page**  
+
 This is where the user will first land, and will be able to access search functionality. However, saving searches or creating playlists can only be accessed with member log in credentials. The layout is sparse and minimal to minimise distractions, similar to the google search bar. 
 
 Members can search by genre, artist, radio station or record label.
 
 ![Landing Page](/docs/wireframes/1.png)
 
-**Log in page**
+**Log in page**  
+
 The page changes into a form which the user will fill in with their details to log into their dashboard, or if they aren't members they can click the sign up button that will take them to a new page.
 
 ![Log in Page](/docs/wireframes/2.png)
 
-**Sign up page**
+**Sign up page**  
+
 Much like the log in page, the sign up page will take in a name, email and password of the user's choosing, that must be at least 6 characters long. The idea is that the forms have an intuitive flow, so that each form should be simple and concise and not need a form wizard.
 
 ![Sing up Page](/docs/wireframes/3.png)
 
-**Dashboard**
+**Dashboard**  
+
 The dashboard will be custom to each user.
 But it will have:
   - Search function
