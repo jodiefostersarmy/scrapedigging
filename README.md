@@ -12,6 +12,13 @@ It is based on https://listennotes.com and https://getpocket.com/.
 https://github.com/jodiefostersarmy/scrapedigging/projects/1
 
 
+**Installation**
+
+**Usage**
+
+**Packages Used**
+
+
 #### Wireframes
 **Landing Page**  
 
