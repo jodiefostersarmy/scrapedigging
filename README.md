@@ -1,22 +1,38 @@
-### Scrape Digging
-
-This app will search music mixes from the internet and give the user the results, much like Google and their search engine. You can create your own mix playlists and play from the app.  
-
-#### What
-It is a search engine, music mix database, listen later playlist, and track identifier that will return the music track details from a mix for song reference.
-
-It is based on https://listennotes.com and https://getpocket.com/. 
+## Scrape Digging
 
 **Project management**  
 
 https://github.com/jodiefostersarmy/scrapedigging/projects/1
 
+**Overview**  
 
-**Installation**
+This app will search music mixes from the internet and give the user the results, much like Google and their search engine. You can create your own mix playlists and play from the app.  
 
-**Usage**
+It is a search engine, music mix database, listen later playlist, and track identifier that will return the music track details from a mix for song reference.
 
-**Packages Used**
+It is based on https://listennotes.com and https://getpocket.com/. 
+
+
+#### Installation
+To maximise the benefit of this app, you will need Python3.8 installed and begin to follow the steps below to set it up.  
+
+- Clone the repo: ``` git clone https://github.com/jodiefostersarmy/scrapedigging```
+
+- Move into the repo directory: ```cd scrapedigging/```
+- Install a virtual environment: ```pip3 install venv```
+- Create a virtual environment: ```python3 -m venv venv```
+- Activate the virtual environment: ```source venv/bin/activate```
+- Install the dependencies from the requirements.txt file: ```pip3 install -r requirements.txt```
+- Run the app: ```python src/main.py```  
+
+#### CI/CD
+The CI/CD pipeline has been created using GitHub actions and uses Python3.8 and Pip3 to run the latest stable version of Ubuntu. The pipeline kicks off by pushing on main repo.
+
+Once it pulls from main, it will install the dependencies outlined in the [packages used section](#packages-used).  
+
+#### Usage
+
+#### Packages Used
 
 
 #### Wireframes
@@ -75,5 +91,5 @@ In these wireframes also outline the search functionality. In the results wirefr
 
 ![Desktop search, add and remove Page](/docs/wireframes/8.jpg)
 
-
+#### WIP DB Schema  
 
