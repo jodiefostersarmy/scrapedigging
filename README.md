@@ -10,6 +10,8 @@ This app is created to search music mixes from internet audio distribution and m
 
 It is based on https://listennotes.com and https://getpocket.com/. 
 
+OpenAPI specs can be found here: https://app.swaggerhub.com/apis/scrapedigging/scrape-digging/1.0.0
+
 ### Installation
 To maximise the benefit of this app, you will need Python3.x installed and begin to follow the steps below to set it up.  
 
