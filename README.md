@@ -98,3 +98,8 @@ Currently at this juncture:
 Note: currently playlists cannot be shared, so each playlist can only belong to one user.
 
 ![DB Schema](/docs/db/db_schema.png)
+
+### Endpoints
+
+Using [Swagger.io](https://editor.swagger.io) (version 2.0), the endpoints are documented in the `swagger.yaml` file. This will be the root document object for the Scrape Digging API specification, and can be interactively viewed using the editor to render the OpenAPI specs.
+
