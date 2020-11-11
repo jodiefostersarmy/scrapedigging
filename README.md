@@ -101,5 +101,5 @@ Note: currently playlists cannot be shared, so each playlist can only belong to 
 
 ### Endpoints
 
-Using [Swagger.io](https://editor.swagger.io) (version 2.0), the endpoints are documented in the `swagger.yaml` file. This will be the root document object for the Scrape Digging API specification, and can be interactively viewed using the editor to render the OpenAPI specs.
+Using [Swagger.io](https://editor.swagger.io) (version 2.0), the endpoints are documented in the `swagger.yaml` file in the `.github` folder. This will be the root document object for the Scrape Digging API specification, and can be interactively viewed using the editor to render the OpenAPI specs.
 
