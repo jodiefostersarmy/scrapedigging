@@ -92,7 +92,7 @@ In these wireframes also outline the search functionality. In the results wirefr
 
 Currently at this juncture:
 1. A user can have many playlists or no playlists.
-2. Each playlist can can no songs or many songs.
+2. Each playlist can have either no songs or many songs.
 3. A song does not need to belong in a playlist, however a song can be within multiple playlists.
 
 Note: currently playlists cannot be shared, so each playlist can only belong to one user.
