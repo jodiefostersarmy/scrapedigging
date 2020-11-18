@@ -99,7 +99,7 @@ Currently at this juncture:
 
 Note: currently playlists cannot be shared, so each playlist can only belong to one user.
 
-![DB Schema](/docs/db/db_schema.png)
+![DB Schema](/docs/db/db_schema_3.png)
 
 ### Endpoints
 
